@@ -2,8 +2,8 @@
 -Architected & built a web application to get project owners in contact with
 candidates.
 This app contains :
-* a recommendation engine with user collaborative filtering based on the algorithm K nearest neighbors (KNN).
-* an AI chatbot (conversational robot) based on the Naive Bayes classifier.
+* A recommendation system using user collaborative filtering based on the algorithm K nearest neighbors (KNN).
+* An AI chatbot (conversational robot) based on the Naive Bayes classifier.
 * A real time chat.
 
 # Tools:
